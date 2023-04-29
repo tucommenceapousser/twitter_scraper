@@ -1,0 +1,10 @@
+workcell_name: twitter_scraper
+workcell_provider: huggingface
+workcell_id: weanalyze/twitter_scraper
+workcell_version: latest
+workcell_runtime: python3.8
+workcell_entrypoint: app:twitter_scraper
+workcell_code:
+  ImageUri: ''
+workcell_tags: {}
+workcell_envs: {}
